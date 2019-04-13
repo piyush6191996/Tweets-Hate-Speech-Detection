@@ -1,0 +1,322 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+
+	<style>
+
+		html, body {margin: 0; height: 100%; overflow: hidden}
+
+		body{
+			background-color:#E0E3C2;
+		}
+
+		/*SCHEDULR*/
+		#heading{
+			position:absolute;
+			margin-top:13%;
+			margin-left:5.5%;
+			font-size:70px;
+			//color:white;
+		}
+
+		/*LOGO goes to top left*/
+		.heading-active{
+			animation: logo 2s 3.5s ease both;
+		}
+
+		/*ENVELOPE*/
+		#mail{
+			position:absolute;
+			margin-top:19%;
+			margin-left:21.8%;
+			transform-origin:10px 10px;
+			cursor:pointer;
+		}
+
+		/*hide POP*/
+		#div1-hide{
+			display:none;
+		}
+		#div2-hide{
+			display:none;
+		}
+		#div3-hide{
+			display:none;
+		}
+
+		/*Drop POP*/
+		#div1-appear{
+			display:block;
+			animation: fall 1s 5.5s ease both;
+		}
+		#div2-appear{
+			display:block;
+			animation: pop-left 1.3s 1s ease forwards;
+		}
+		#div3-appear{
+			display:block;
+			animation: pop-right 1.3s 1s ease forwards;
+		}
+		#div-fall{
+			display:block;
+			animation: fallout 1s 0.5s ease both;
+		}
+
+		/*POP*/
+		.pop{
+			background-color:#E5E7D9;
+			width: 60%;
+			height: 60%;
+			position: relative;
+			padding: 5%;
+			border: 1px solid black;
+			box-sizing: border-box;
+			box-shadow: 5px 10px 18px #888888;
+		}
+		.up{
+			top: -400px;
+			left: 20%;
+		}
+		.left{
+			position:absolute;
+			top: 15%;
+			left: -1000px;
+		}
+		.right{
+			position:absolute;
+			top: 15%;
+			right: -1000px;
+		}
+
+		/*BUTTON DOWN animation*/
+		#mail:active{
+			animation: envdown 0.8s ease both;
+		}
+
+		/*ENVELOPE SWING and FALL animation*/
+		.mail-active{
+			animation: env 4s 0.3s ease forwards;
+		}
+
+
+		/*LINKS become buttons*/
+		a{
+			display:block;
+			padding: 10px 15px;
+			border: 1px solid #000;
+			text-transform: uppercase;
+			text-decoration: none;
+			letter-spacing: 2px;
+			box-shadow: 5px 10px 18px #888888;
+			border-radius: 10px;
+			background: #CEEBF7;
+			color: 295EAB;
+			overflow: hidden;
+		}
+
+        .container {
+            align: center;
+        }
+
+		/*BUTTON DOWN animation*/
+		a:active{
+			animation: envdown 0.8s ease both;
+		}
+
+		/*SWIPE animation*/
+		.swipe {
+			display: inline-block;
+			vertical-align: middle;
+			transform: perspective(1px) translateZ(0);
+			box-shadow: 5px 10px 18px #888888;
+			{#position: relative;#}
+			transition-property: color;
+			transition-duration: 0.3s;
+		}
+
+		.swipe:before {
+			content: "";
+			position: absolute;
+			z-index: -1;
+			top: 0;
+			left: 0;
+			right: 0;
+			bottom: 0;
+			background: #DAF7A6;
+			transform: scaleX(0);
+			transform-origin: 0 50%;
+			transition-property: transform;
+			transition-duration: 0.3s;
+			transition-timing-function: ease-out;
+		}
+
+		.swipe:hover, .swipe:focus, .swipe:active {
+			color: #4D6D0F;
+			text-decoration:none;
+		}
+
+		#swipe-right{
+			left:20%;
+		}
+
+		#swipe-right:before{
+			transform-origin: 0 50%;
+		}
+
+		#swipe-left:before{
+			transform-origin: 100% 50%;
+		}
+
+		#swipe-left{
+			left:40%;
+		}
+
+		.swipe:hover:before, .swipe:focus:before, .swipe:active:before {
+			transform: scaleX(1);
+		}
+
+		/*ENVELOPE*/
+		@keyframes env{
+			0%{transform: translateY(0px) rotateZ(0deg);}
+			30%{transform: translateY(0px) rotateZ(80deg);}
+			50%{transform: translateY(0px) rotateZ(60deg);}
+			70%{transform: translateY(0px) rotateZ(70deg);}
+			100%{transform: translateY(600px) rotateZ(75deg);}
+		}
+
+		/*BUTTON DOWN*/
+		@keyframes envdown{
+			0%{}
+			50%{transform: translateY(5px);}
+			100%{transform: translateY(0px);}
+		}
+
+		/*LOGO TRANSLATE*/
+		@keyframes logo{
+			from{transform: translate(0px,0px);}
+			to{transform: translate(-280px,-150px);font-size: 20px;font-weight:normal;}
+		}
+
+		/*DROP POP*/
+		@keyframes fall{
+			0%{opacity: 0;}
+			70%{transform: translateY(650px);}
+			100%{transform: translateY(620px); opacity: 1;}
+		}
+
+		@keyframes fallout{
+			0%{transform: translateY(620px); opacity: 1;}
+			100%{transform: translateY(1500px); opacity:0;}
+		}
+
+		/*POP sign up*/
+		@keyframes pop-left{
+			0%{opacity: 0;}
+			70%{transform: translateX(1300px);}
+			100%{transform: translateX(1270px); opacity: 1;}
+		}
+
+		/*POP SIGN IN*/
+		@keyframes pop-right{
+			0%{opacity: 0;}
+			70%{transform: translateX(-1300px);}
+			100%{transform: translateX(-1270px); opacity: 1;}
+		}
+
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1 id="heading">HATE SPEECH DETECTION</h1>
+		<img src="{% static 'result_api/img/twitter_img2.png' %}" id="mail" alt="TAP TO ENTER" onclick="animation1()">
+		<div class="pop up" id="div1-hide" style="text-align:center">
+			<h1>ENTER THE TWEET YOU WANT TO TEST</h1><br><br>
+
+            <form id="tweet_submit_form" method="get" action="{% url 'tweet_submit' %}">
+                <input id="tweet_input_id" style="width: 450px;" type="text">
+                <p></p>
+                <div>
+                <a href="javascript:animation3();" class="swipe" id="swipe-left"><span><button style="border: none; left: 0px;" class="swipe" id="swipe-left" type="submit">Submit</button></span></a>
+{#                <a href="javascript:animation3();" class="swipe" id="swipe-left" type="submit"><span>Submit</span></a>#}
+                </div>
+            </form>
+
+
+		</div>
+
+	</div>
+	<script>
+
+		function animation1()
+		{
+			document.getElementById('mail').className ='mail-active';
+			document.getElementById('heading').className ='heading-active';
+			document.getElementById("div1-hide").id='div1-appear';
+		}
+
+		function animation2()
+		{
+			document.getElementById('div2-hide').id='div2-appear';
+			document.getElementById('div1-appear').id='div-fall';
+		}
+
+		function animation3()
+		{
+			document.getElementById('div3-hide').id='div3-appear';
+			document.getElementById('div1-appear').id='div-fall';
+		}
+
+	</script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+{#<!DOCTYPE html>#}
+{#<html lang="en">#}
+{#<head>#}
+{#    <meta charset="UTF-8">#}
+{#    <title>vgbhjkl</title>#}
+{##}
+{#    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>#}
+{##}
+{#</head>#}
+{#<body>#}
+{##}
+{#    <form id="tweet_submit_form" method="get" action="{% url 'tweet_submit' %}">#}
+{#        <input id="tweet_input_id" type="text" placeholder="Enter tweet here">#}
+{#        <p></p>#}
+{#        <button type="submit">Submit</button>#}
+{#    </form>#}
+{##}
+{#<script>#}
+{#    $('#tweet_submit_form').on('submit', function () {#}
+{#        alert("in here");#}
+{#        var tweet = $('#tweet_input_id').val();#}
+{#        $.ajax({#}
+{#          url : "{% url "tweet_submit" %}",#}
+{#          type : "get",#}
+{#          data : {#}
+{#            'tweet': tweet,#}
+{#            'csrfmiddlewaretoken': '{{ csrf_token }}'#}
+{#                },#}
+{#        });#}
+{##}
+{#    })#}
+{#</script>#}
+{##}
+{#done(function (data) {#}
+{#            window.location.href = "{% url "tweet_submit" %}";#}
+{#        })#}
+{##}
+{#</body>#}
+{#</html>#}
