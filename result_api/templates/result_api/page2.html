@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>Result</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<style>
+	
+		html, body {margin: 0; height: 100%; overflow: hidden}
+		
+		body{
+			background-color:#E0E3C2;
+		}
+		
+		.pop{
+			background-color:#E5E7D9; 
+			width: 60%;
+			height: 60%;												
+			position: absolute;
+			padding: 5%;
+			border: 1px solid black;
+			box-sizing: border-box;
+			box-shadow: 5px 10px 18px #888888;
+			left:20%;
+			top:20%;
+		}
+		
+</style>
+</head>
+<body>
+	<div class=container>
+		<div align="center" class="pop">
+			<h1><b>RESULT</b></h1>
+            <p>Possible percentage content as per analysis</p><br>
+            {% for class in classes %}
+                <h3>{% if class.class_name == 'hate_speech' %}Hate Speech Content Possibility{% elif class.class_name == 'offensive_language' %}Offensive Language possibility{% else %}Neither{% endif %}</h3> : {{ class.confidence }}<p></p>
+            {% endfor %}<br><br>
+        <a href="{% url 'firsttry' %}">Enter Tweet again</a>
+		</div>
+
+	</div>
+</body>
+</html>

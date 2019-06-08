@@ -17,4 +17,4 @@ def receive_tweet(request):
     result = sonar.ping(text=tweet)
     print(result)
     json_result = json.dumps(result)
-    return render(request, 'result_api/final_result1.html', result)
+    return render(request, 'result_api/page2.html', result)

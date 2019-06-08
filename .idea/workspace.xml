@@ -1,7 +1,164 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f74cc362-d063-4bd1-b157-197fb45d63a2" name="Default Changelist" comment="" />
+    <list default="true" id="f74cc362-d063-4bd1-b157-197fb45d63a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/._index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/._license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._color-switcher.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._line-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._menu_sideslide.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._nivo-lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/._responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/colors/._alizarin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/colors/._blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/colors/._orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/colors/._preset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/colors/._turquoise.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/css/colors/._wisteria.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/fonts/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/fonts/._LineIcons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/fonts/._LineIcons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/fonts/._LineIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/fonts/._LineIcons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._dummy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._hero-area.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._intro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._map-marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/._timer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/about/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/about/._img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/about/._img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/about/._img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/bg/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/bg/._bg-cta.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/bg/._bg-subs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/bg/._hero-area-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/bg/._video.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/blog/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/blog/._avater-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/blog/._img3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/blog/._ta-avater.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/clients/._img8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/instagram/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/instagram/._insta1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/instagram/._insta2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/instagram/._insta3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/instagram/._insta4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/instagram/._insta5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/instagram/._insta6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/portfolio/._img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/slider/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/slider/._bg-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/slider/._bg-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/slider/._bg-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/team/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/team/._member-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/team/._team1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/team/._team2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/team/._team3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/team/._team4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/img/testimonial/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._color-switcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._contact-form-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._form-validator.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery.mixitup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery.nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._jquery.vide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._nivo-lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._scrolling-nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/__MACOSX/essence-free-opl/js/._wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/essence-free-opl/essence-free-opl/license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/color-switcher.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/colors/alizarin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/colors/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/colors/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/colors/preset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/colors/turquoise.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/colors/wisteria.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/line-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/menu_sideslide.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/nivo-lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/fonts/LineIcons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/fonts/LineIcons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/fonts/LineIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/fonts/LineIcons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/classie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/color-switcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/contact-form-script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/form-validator.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery-min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery.counterup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery.easing.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery.magnific-popup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery.mixitup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery.nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery.stellar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/jquery.vide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/nivo-lightbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/owl.carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/scrolling-nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/waypoints.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/static/result_api/js/wow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/templates/result_api/final_result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/templates/result_api/final_result1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/templates/result_api/result_page.html" beforeDir="false" afterPath="$PROJECT_DIR$/result_api/templates/result_api/result_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/result_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/result_api/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +170,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/result_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+            <state relative-caret-position="306">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/page2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -34,36 +200,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/result_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="4" selection-start-line="5" selection-end-line="6" />
-              <folding>
-                <element signature="e#4699#4724#0#HTML" expanded="true" />
-                <element signature="e#4853#4874#0#HTML" expanded="true" />
-                <element signature="e#5018#5051#0#HTML" expanded="true" />
-              </folding>
+            <state relative-caret-position="468">
+              <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/final_result.html">
+        <entry file="file://$PROJECT_DIR$/data/labelled_data.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="612" selection-start-line="612" selection-end-line="612" />
-              <folding>
-                <element signature="e#11987#11994#1#HTML" expanded="true" />
-                <element signature="e#27897#27903#0#HTML" expanded="true" />
-                <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/final_result1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="1193" column="15" selection-start-line="1193" selection-start-column="12" selection-end-line="1193" selection-end-column="15" />
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -71,8 +218,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/result_api/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+            <state relative-caret-position="108">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -116,7 +263,11 @@
       <find>div1-hi</find>
       <find>hre</find>
       <find>src</find>
+      <find>tweetsubmi</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -124,11 +275,13 @@
         <option value="$PROJECT_DIR$/twitter_hate_speech_detection/urls.py" />
         <option value="$PROJECT_DIR$/result_api/static/result_api/result_page.html" />
         <option value="$PROJECT_DIR$/twitter_hate_speech_detection/settings.py" />
-        <option value="$PROJECT_DIR$/result_api/urls.py" />
-        <option value="$PROJECT_DIR$/result_api/templates/result_api/result_page.html" />
         <option value="$PROJECT_DIR$/result_api/templates/result_api/final_result.html" />
         <option value="$PROJECT_DIR$/result_api/templates/result_api/final_result1.html" />
         <option value="$PROJECT_DIR$/result_api/views.py" />
+        <option value="$PROJECT_DIR$/result_api/templates/result_api/page2.html" />
+        <option value="$PROJECT_DIR$/result_api/urls.py" />
+        <option value="$PROJECT_DIR$/result_api/templates/result_api/result_page.html" />
+        <option value="$PROJECT_DIR$/data/labelled_data.csv" />
       </list>
     </option>
   </component>
@@ -150,6 +303,11 @@
             <path>
               <item name="twitter_hate_speech_detection" type="b2602c69:ProjectViewProjectNode" />
               <item name="twitter_hate_speech_detection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="twitter_hate_speech_detection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="twitter_hate_speech_detection" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="twitter_hate_speech_detection" type="b2602c69:ProjectViewProjectNode" />
@@ -195,6 +353,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -257,17 +416,21 @@
       <updated>1554706117314</updated>
       <workItem from="1554706118977" duration="3960000" />
       <workItem from="1554988480671" duration="6365000" />
+      <workItem from="1555305840607" duration="3876000" />
+      <workItem from="1556942682004" duration="419000" />
+      <workItem from="1556943121625" duration="1290000" />
+      <workItem from="1559814754631" duration="659000" />
+      <workItem from="1559968459505" duration="702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10325000" />
+    <option name="totallyTimeSpent" value="17271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26627535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -294,6 +457,25 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/final_result.html" />
+    <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/final_result1.html" />
+    <entry file="file://$PROJECT_DIR$/result_api/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/page2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/twitter_hate_speech_detection/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -301,10 +483,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/result_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/labelled_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/result_api/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="5" column="60" selection-start-line="5" selection-start-column="60" selection-end-line="5" selection-end-column="60" />
+        <state relative-caret-position="108">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -317,47 +513,6 @@
           <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
             <element signature="e#653#685#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/result_page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="4" selection-start-line="5" selection-end-line="6" />
-          <folding>
-            <element signature="e#4699#4724#0#HTML" expanded="true" />
-            <element signature="e#4853#4874#0#HTML" expanded="true" />
-            <element signature="e#5018#5051#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/final_result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="612" selection-start-line="612" selection-end-line="612" />
-          <folding>
-            <element signature="e#11987#11994#1#HTML" expanded="true" />
-            <element signature="e#27897#27903#0#HTML" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_api/templates/result_api/final_result1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="1193" column="15" selection-start-line="1193" selection-start-column="12" selection-end-line="1193" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/result_api/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>

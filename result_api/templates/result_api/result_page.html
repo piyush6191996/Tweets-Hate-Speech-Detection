@@ -237,7 +237,7 @@
 			<h1>ENTER THE TWEET YOU WANT TO TEST</h1><br><br>
 
             <form id="tweet_submit_form" method="get" action="{% url 'tweet_submit' %}">
-                <input id="tweet_input_id" style="width: 450px;" type="text">
+                <input id="tweet_input_id" name="tweet" style="width: 450px;" type="text">
                 <p></p>
                 <div>
                 <a href="javascript:animation3();" class="swipe" id="swipe-left"><span><button style="border: none; left: 0px;" class="swipe" id="swipe-left" type="submit">Submit</button></span></a>
